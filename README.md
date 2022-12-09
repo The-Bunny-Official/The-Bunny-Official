@@ -14,4 +14,4 @@ Have fun checking out my page :)
 ### My Stats
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Theenderman409&theme=dark)
 ### My Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theenderman409&layout=compact&theme=dark&hide=cmake,makefile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theenderman409&theme=dark&hide=cmake,makefile)
