@@ -10,3 +10,8 @@ Have fun checking out my page :)
 
 ### My contributions
 ![snake gif](https://github.com/Theenderman409/Theenderman409/blob/output/github-contribution-grid-snake.svg)
+
+### My Stats
+![My Stats](https://github-readme-stats.vercel.app/api?username=Theenderman409&theme=dark)
+### My Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theenderman409&layout=compact&theme=dark&hide=cmake,makefile)
