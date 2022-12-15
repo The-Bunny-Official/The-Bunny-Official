@@ -1,4 +1,4 @@
-### Hi there I'm Theenderman409 or some of you know me as The Bunny
+### Hi there I'm The Bunny
 I like to make random projects that no one will ever care about, although I also make Discord Bots, using Pycord and Discord.py.
 I am trying to learn Node.Js and Discord.js
 I have experience in Python, JavaScript, node.js C++, Java, BrainF*ck, HTML, and CSS.
@@ -9,12 +9,12 @@ Have fun checking out my page :)
 
 
 ### My contributions
-![snake gif](https://github.com/Theenderman409/Theenderman409/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/The-Bunny-Official/Theenderman409/blob/output/github-contribution-grid-snake.svg)
 
 ### My Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=Theenderman409&theme=dark&show_icons=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=The-Bunny-Official&theme=dark&show_icons=true)
 ### My Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theenderman409&theme=dark&hide=cmake,makefile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Bunny-Official&theme=dark&hide=cmake,makefile)
 
 <p align="left">
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/javascript/javascript.svg" width="100" />
