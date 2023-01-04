@@ -25,3 +25,12 @@ Have fun checking out my page :)
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/c%2B%2B/c%2B%2B.svg" width="100" />
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/node/node.svg" width="100" />
 </p>
+
+
+### GitHub Achievements
+
+<p align="left">
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/8726107588c9407ec0b0eeef2b5f37b892dbe2d7/images/yolo-default.png" width="100" />
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/8726107588c9407ec0b0eeef2b5f37b892dbe2d7/images/pull-shark-default.png" width="100" />
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/8726107588c9407ec0b0eeef2b5f37b892dbe2d7/images/quickdraw-default.png" width="100" />
+</p>
