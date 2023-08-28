@@ -19,6 +19,7 @@ Have fun checking out my page :)
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/java/java.svg" width="100" />
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/c%2B%2B/c%2B%2B.svg" width="100" />
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/node/node.svg" width="100" />
+  <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/c/c.png" width="100" />
 </p>
 
 
