@@ -6,11 +6,6 @@ Have fun checking out my page :)
 
 [My Website](https://the-bunny.me)
 
-
-
-### My contributions
-![snake gif](https://github.com/The-Bunny-Official/Theenderman409/blob/output/github-contribution-grid-snake.svg)
-
 <p align="left">
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/javascript/javascript.svg" width="100" />
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.svg" width="100" />
