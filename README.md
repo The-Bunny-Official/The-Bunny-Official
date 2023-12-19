@@ -4,7 +4,7 @@ I am trying to learn Node.Js and Discord.js
 I have experience in Python, JavaScript, node.js C++, Java, BrainF*ck, HTML, and CSS.
 Have fun checking out my page :)
 
-[My Website](https://the-bunny.me)
+Find me on discord: `the._.bunny`
 
 <p align="left">
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/javascript/javascript.svg" width="100" />
